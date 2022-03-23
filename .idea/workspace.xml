@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="de150b55-84e0-4a09-9b3f-3b7da97d3128" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Package Object" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="25VdRjgosaC26eJCEWYRSBEwW3W" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Scalabdd" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\ScalabddProject\lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="ScalaTest.StockTests">
+    <configuration name="LoginTest" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="ScalabddProject" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="testKind" value="Class" />
+      <option name="envs">
+        <map />
+      </option>
+      <option name="javaOptions" value="" />
+      <option name="jrePath" />
+      <option name="searchTest" value="Across module dependencies" />
+      <option name="showProgressMessages" value="true" />
+      <option name="testArgs" value="" />
+      <option name="testClassPath" value="com.rediff.tests.login.LoginTest" />
+      <option name="useSbt" value="false" />
+      <option name="useUiWithSbt" value="false" />
+      <option name="workingDirectory" value="C:\ScalabddProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.A user that logs in should land on the home page" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="ScalabddProject" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="testKind" value="Class" />
+      <option name="envs">
+        <map />
+      </option>
+      <option name="javaOptions" value="" />
+      <option name="jrePath" />
+      <option name="searchTest" value="Across module dependencies" />
+      <option name="showProgressMessages" value="true" />
+      <option name="testArgs" value="" />
+      <option name="testClassPath" value="com.rediff.tests.login.LoginTest" />
+      <option name="useSbt" value="false" />
+      <option name="useUiWithSbt" value="false" />
+      <option name="workingDirectory" value="C:\ScalabddProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PortfolioTests" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="ScalabddProject" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="testKind" value="Class" />
+      <option name="envs">
+        <map />
+      </option>
+      <option name="javaOptions" value="" />
+      <option name="jrePath" />
+      <option name="searchTest" value="Across module dependencies" />
+      <option name="showProgressMessages" value="true" />
+      <option name="testArgs" value="" />
+      <option name="testClassPath" value="com.rediff.tests.portfolio.PortfolioTests" />
+      <option name="useSbt" value="false" />
+      <option name="useUiWithSbt" value="false" />
+      <option name="workingDirectory" value="C:\ScalabddProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StockTests" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="ScalabddProject" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="testKind" value="Class" />
+      <option name="envs">
+        <map />
+      </option>
+      <option name="javaOptions" value="" />
+      <option name="jrePath" />
+      <option name="searchTest" value="Across module dependencies" />
+      <option name="showProgressMessages" value="true" />
+      <option name="testArgs" value="" />
+      <option name="testClassPath" value="com.rediff.tests.stocks.StockTests" />
+      <option name="useSbt" value="false" />
+      <option name="useUiWithSbt" value="false" />
+      <option name="workingDirectory" value="C:\ScalabddProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="ScalaTest.StockTests" />
+        <item itemvalue="ScalaTest.PortfolioTests" />
+        <item itemvalue="ScalaTest.LoginTest" />
+        <item itemvalue="ScalaTest.LoginTest.A user that logs in should land on the home page" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="ScalabddProject" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="scalabddproject [file:/C:/ScalabddProject/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="ScalabddProject-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3291234343328" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="82544143" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1396028727" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../web-tests/web-tests" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../web_tests_1/web-tests" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de150b55-84e0-4a09-9b3f-3b7da97d3128" name="Default Changelist" comment="" />
+      <created>1645616187370</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645616187370</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="445" y="76" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1645617558601">
+      <screen x="71" y="0" width="1295" height="768" />
+    </state>
+    <state x="445" y="76" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/71.0.1295.768@71.0.1295.768" timestamp="1645617558601" />
+    <state x="498" y="142" key="FileChooserDialogImpl" timestamp="1645618625417">
+      <screen x="71" y="0" width="1295" height="768" />
+    </state>
+    <state x="498" y="142" key="FileChooserDialogImpl/71.0.1295.768@71.0.1295.768" timestamp="1645618625417" />
+    <state width="1252" height="184" key="GridCell.Tab.0.bottom" timestamp="1645972831125">
+      <screen x="71" y="0" width="1295" height="768" />
+    </state>
+    <state width="1252" height="184" key="GridCell.Tab.0.bottom/71.0.1295.768@71.0.1295.768" timestamp="1645972831125" />
+    <state width="1252" height="184" key="GridCell.Tab.0.center" timestamp="1645972831124">
+      <screen x="71" y="0" width="1295" height="768" />
+    </state>
+    <state width="1252" height="184" key="GridCell.Tab.0.center/71.0.1295.768@71.0.1295.768" timestamp="1645972831124" />
+    <state width="1252" height="184" key="GridCell.Tab.0.left" timestamp="1645972831124">
+      <screen x="71" y="0" width="1295" height="768" />
+    </state>
+    <state width="1252" height="184" key="GridCell.Tab.0.left/71.0.1295.768@71.0.1295.768" timestamp="1645972831124" />
+    <state width="1252" height="184" key="GridCell.Tab.0.right" timestamp="1645972831125">
+      <screen x="71" y="0" width="1295" height="768" />
+    </state>
+    <state width="1252" height="184" key="GridCell.Tab.0.right/71.0.1295.768@71.0.1295.768" timestamp="1645972831125" />
+    <state x="198" y="0" key="SettingsEditor" timestamp="1645617382138">
+      <screen x="71" y="0" width="1295" height="768" />
+    </state>
+    <state x="198" y="0" key="SettingsEditor/71.0.1295.768@71.0.1295.768" timestamp="1645617382138" />
+    <state x="163" y="92" width="1111" height="584" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1645709412635">
+      <screen x="71" y="0" width="1295" height="768" />
+    </state>
+    <state x="163" y="92" width="1111" height="584" key="com.intellij.history.integration.ui.views.FileHistoryDialog/71.0.1295.768@71.0.1295.768" timestamp="1645709412635" />
+    <state x="427" y="211" key="com.intellij.ide.util.TipDialog" timestamp="1645616211351">
+      <screen x="71" y="0" width="1295" height="768" />
+    </state>
+    <state x="427" y="211" key="com.intellij.ide.util.TipDialog/71.0.1295.768@71.0.1295.768" timestamp="1645616211351" />
+  </component>
+</project>

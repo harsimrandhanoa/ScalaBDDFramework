@@ -1,0 +1,5 @@
+#Successful Tests
+#Sat Feb 26 07:51:21 EST 2022
+com.rediff.tests.login.LoginTest=1645879803628
+com.rediff.tests.portfolio.PortfolioTests=1645879765580
+com.rediff.tests.stocks.StockTests=1645879881471

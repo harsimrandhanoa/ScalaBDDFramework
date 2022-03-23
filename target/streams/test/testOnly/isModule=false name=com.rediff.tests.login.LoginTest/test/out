@@ -1,0 +1,5 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mLoginTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m A user that logs in [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should land on the home page[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m A user that logs in with wrong password[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should not be able to land on the home page[0m[0m
